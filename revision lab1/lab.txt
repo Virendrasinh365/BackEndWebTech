@@ -1,0 +1,7 @@
+demonstrate call back function in js
+diffrence between between let and var
+default parameter while using function
+spread oprater
+for of loop 
+array and object destructuring
+

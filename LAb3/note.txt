@@ -1,0 +1,2 @@
+node pakage manager is third-party repository.
+The package.json file is a component in Node.js projects and JavaScript ecosystem, especially when using package managers like npm (Node Package Manager). It serves as a manifest file that contains essential metadata about a project and its dependencies.
